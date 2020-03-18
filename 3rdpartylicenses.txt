@@ -16,16 +16,16 @@ MIT
 @angular/router
 MIT
 
-@portinari/portinari-code-editor
+@po/po-code-editor
 MIT
 
-@portinari/portinari-templates
+@po/po-templates
 MIT
 
-@portinari/portinari-ui
+@po/po-ui
 MIT
 
-@portinari/style
+@po/style
 MIT
 
 core-js
